@@ -1,7 +1,7 @@
 name: pin_verification_code
 description: Pin layout package
-version: 0.0.1-dev.1
-homepage: https://github.com/somnio-software/pin-verification-code.git
+version: 0.0.01+1-dev.1
+homepage: https://pub.dev/packages/pin_verification_code
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
