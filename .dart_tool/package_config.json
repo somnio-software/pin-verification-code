@@ -1,0 +1,164 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.5.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "bloc",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/bloc-6.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "boolean_selector",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/characters-1.1.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "charcode",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.2.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/clock-1.1.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.15.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "fake_async",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "flutter_bloc",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_bloc-6.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.6"
+    },
+    {
+      "name": "flutter_test",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "matcher",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "nested",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/nested-0.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/provider-4.3.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
+      "name": "sky_engine",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/bin/cache/pkg/sky_engine",
+      "packageUri": "lib/",
+      "languageVersion": "1.11"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/source_span-1.8.0-nullsafety.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "stack_trace",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/stack_trace-1.10.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "stream_channel",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/stream_channel-2.1.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/string_scanner-1.1.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/term_glyph-1.2.0-nullsafety.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "test_api",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/test_api-0.2.19-nullsafety.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/gianfrancopapa/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/vector_math-2.1.0-nullsafety.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    },
+    {
+      "name": "pin_verification_code",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2021-03-10T18:47:32.200370Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.5"
+}
