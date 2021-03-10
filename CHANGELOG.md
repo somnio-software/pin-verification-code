@@ -1,3 +1,4 @@
-## [0.0.01+1] - TODO: Add release date.
+## [0.1.0] - Initial version.
 
-- TODO: Describe initial release.
+- Integrate a pin verification code layout into your project.
+- Customizable parameters.

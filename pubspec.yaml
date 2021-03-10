@@ -1,6 +1,6 @@
 name: pin_verification_code
 description: Pin layout package
-version: 0.0.01+1-dev.1
+version: 0.1.0
 homepage: https://pub.dev/packages/pin_verification_code
 
 environment:
